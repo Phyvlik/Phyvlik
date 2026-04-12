@@ -1,11 +1,11 @@
 <!-- Header Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vivek%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20AI%20Builder%20%7C%20Hackathon%20Hacker&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vivek%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20AI%20Builder%20%7C%203x%20Hackathon%20Winner&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vivek+%F0%9F%91%8B;CS+Student+%40+Georgia+State+University;AI+%2F+ML+Builder+%F0%9F%A4%96;Health+Tech+Enthusiast+%F0%9F%A9%BA;Hackathon+Competitor+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vivek+%F0%9F%91%8B;CS+Student+%40+Georgia+State+University;AI+%2F+ML+Builder+%F0%9F%A4%96;Health+Tech+Enthusiast+%F0%9F%A9%BA;3x+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -28,9 +28,9 @@
 vivek = {
     "school":     "Georgia State University (B.S. CS, May 2027)",
     "location":   "Atlanta, GA 🍑",
-    "focus":      ["Computer Vision", "Health AI", "Data Science", "Full-Stack"],
+    "focus":      ["AI Engineering", "Software Engineering", "Computer Vision", "Health AI"],
     "research":   "Emory University HitiLab — medical imaging & foundation models",
-    "hackathons": "Placed at 2 hackathons, always building something new",
+    "hackathons": "Placed at 3 hackathons, always building something new",
     "currently":  "AWS Cloud Practitioner + Solutions Architect (in progress)",
     "fun_fact":   "I built a system that makes cars talk to each other with light 💡",
 }
@@ -42,7 +42,7 @@ vivek = {
 
 <div align="center">
 
-![Hackathons Won](https://img.shields.io/badge/🏆_Hackathons_Won-2-gold?style=for-the-badge)
+![Hackathons Won](https://img.shields.io/badge/🏆_Hackathons_Won-3-gold?style=for-the-badge)
 ![Best Health Hack](https://img.shields.io/badge/🩺_Best_Health_Hack-CareBotix-red?style=for-the-badge)
 ![3rd Place Overall](https://img.shields.io/badge/🥉_3rd_Place_Overall-150%2B_Teams-orange?style=for-the-badge)
 
@@ -144,12 +144,12 @@ vivek = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phyvlik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phyvlik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phyvlik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phyvlik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phyvlik&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Phyvlik&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -165,7 +165,7 @@ vivek = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Phyvlik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Phyvlik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%"/>
 </div>
 
 ---
