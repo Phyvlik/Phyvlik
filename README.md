@@ -116,6 +116,7 @@ vivek = {
 | 🏆 Project | 📝 Description | 🔧 Stack |
 |:---:|:---:|:---:|
 | [**CareBotix**](https://github.com/Phyvlik/CareBotix) | 🥉 3rd Overall + 🩺 Best Health Hack — AI patient monitoring with real-time fall detection & Gemini health assistant | `Python` `YOLOv8` `PyQt6` `MongoDB` `Gemini` |
+| [**TasteStack**](https://github.com/Phyvlik/TasteStackFinal-HackDavidson) | 🏆 HackDavidson — AI recipes, real store prices (Kroger, Walmart, Harris Teeter), and voice-guided cooking for students & new cooks | `React` `TypeScript` `Supabase` `Gemini` `ElevenLabs` |
 | [**Pose Pilot**](https://github.com/Phyvlik/PosePilot) | Real-time posture coach using webcam + YOLO-Pose. 45% reduction in slouching during testing | `Python` `YOLO-Pose` `PyQt5` `Gemini` |
 | [**GlareGuard**](https://github.com/Phyvlik/GlareGuard) | Adaptive headlight system that auto-dims beams when detecting oncoming glare — cars communicating without words | `Python` |
 | [**pricevision**](https://github.com/Phyvlik/pricevision) | ML-powered price prediction tool | `Python` `scikit-learn` `Pandas` |
