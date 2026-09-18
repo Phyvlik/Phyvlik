@@ -26,7 +26,7 @@
 
 ```python
 vivek = {
-    "school":     "Georgia State University (B.S. CS, May 2027)",
+    "school":     "Georgia State University (B.S. CS, December 2027)",
     "location":   "Atlanta, GA 🍑",
     "focus":      ["AI Engineering", "Software Engineering", "Computer Vision", "Health AI"],
     "research":   "Emory University HitiLab — medical imaging & foundation models",
